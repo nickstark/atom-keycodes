@@ -2,7 +2,7 @@
   "name": "keycodes",
   "main": "./lib/keycodes",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Easy acces to javascript keycodes",
   "repository": "https://github.com/nickstark/atom-keycodes",
   "license": "MIT",
   "engines": {
